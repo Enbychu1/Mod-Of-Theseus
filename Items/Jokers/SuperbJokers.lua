@@ -23,19 +23,18 @@ SMODS.Joker{
   rarity = "mot_superb",
   atlas = "SuperbJ",
   cost = 10,
-  blueprint_compat = true,
+  blueprint_compat = false,
   unlocked = true,
   mot_credits = {
     idea = {
-      "GoldDog",
+      "Enbychu",
     },
     art = {
-      "Golddog",
-      "Gud".
+      "Gud",
     },
     code = {
-      "Jinx",
-      "Mothball",
+      "Enbychu",
+      "",
     },
   },
 }
