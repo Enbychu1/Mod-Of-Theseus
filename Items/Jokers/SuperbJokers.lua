@@ -17,7 +17,28 @@
  * You should have received a copy of the GNU General Public License
  * along with Mod of Theseus; if not, see <https://www.gnu.org/licenses/>.
 ]]
-
+SMODS.Joker{
+  key = "EnbychuJ",
+  pos = { x = 0, y = 0 },
+  rarity = "mot_superb",
+  atlas = "SuperbJ",
+  cost = 10,
+  blueprint_compat = true,
+  unlocked = true,
+  mot_credits = {
+    idea = {
+      "GoldDog",
+    },
+    art = {
+      "Golddog",
+      "Gud".
+    },
+    code = {
+      "Jinx",
+      "Mothball",
+    },
+  },
+}
 SMODS.Joker{
   key = "reinforcedGlassJ",
   pos = { x = 0, y = 0 },
